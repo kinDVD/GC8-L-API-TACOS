@@ -1,0 +1,6 @@
+@Lab_FastFoodTacoDB_HostAddress = http://localhost:5049
+
+GET {{Lab_FastFoodTacoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
