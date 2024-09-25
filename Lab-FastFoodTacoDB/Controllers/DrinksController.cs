@@ -11,16 +11,16 @@ namespace Lab_FastFoodTacoDB.Controllers
         LabTacosContext dbContext = new LabTacosContext();
         
         [HttpGet()]
-        public IActionResult GetDrinks(string? SortByCost = null)
+        public IActionResult GetDrinks(string? SortByCost = "")
         {
             List<Drink> drinks = dbContext.Drinks.ToList();
-            if (SortByCost == "Ascending")
+            if (SortByCost.ToLower() == "ascending")
             {
-                drinks.OrderBy(x => x.Cost);
+                drinks = drinks.OrderBy(x => x.Cost).ToList();
             }
-            if (SortByCost == "Descending")
+            else if (SortByCost.ToLower() == "descending")
             {
-                 drinks.OrderByDescending(x => x.Cost);
+                 drinks = drinks.OrderByDescending(x => x.Cost).ToList();
             }
             return Ok(drinks);
         }

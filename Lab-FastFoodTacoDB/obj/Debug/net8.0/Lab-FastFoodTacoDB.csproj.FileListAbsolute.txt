@@ -134,3 +134,4 @@ C:\Users\david\source\repos\Lab-FastFoodTacoDB\Lab-FastFoodTacoDB\obj\Debug\net8
 C:\Users\david\source\repos\Lab-FastFoodTacoDB\Lab-FastFoodTacoDB\obj\Debug\net8.0\Lab-FastFoodTacoDB.pdb
 C:\Users\david\source\repos\Lab-FastFoodTacoDB\Lab-FastFoodTacoDB\obj\Debug\net8.0\Lab-FastFoodTacoDB.genruntimeconfig.cache
 C:\Users\david\source\repos\Lab-FastFoodTacoDB\Lab-FastFoodTacoDB\obj\Debug\net8.0\ref\Lab-FastFoodTacoDB.dll
+C:\Users\david\source\repos\Lab-FastFoodTacoDB\Lab-FastFoodTacoDB\obj\Debug\net8.0\Lab-FastFoodTacoDB.sourcelink.json

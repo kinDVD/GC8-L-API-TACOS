@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{BCC5B732-E0A7-4714-87A4-19FDD029DD26}|Lab-FastFoodTacoDB\\Lab-FastFoodTacoDB.csproj|solutionrelative:lab-fastfoodtacodb\\controllers\\tacoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\Lab-FastFoodTacoDB\\Lab-FastFoodTacoDB\\Models\\LabTacosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab-FastFoodTacoDB\\Models\\LabTacosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCC5B732-E0A7-4714-87A4-19FDD029DD26}|Lab-FastFoodTacoDB\\Lab-FastFoodTacoDB.csproj|c:\\users\\david\\source\\repos\\lab-fastfoodtacodb\\lab-fastfoodtacodb\\models\\labtacoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC5B732-E0A7-4714-87A4-19FDD029DD26}|Lab-FastFoodTacoDB\\Lab-FastFoodTacoDB.csproj|solutionrelative:lab-fastfoodtacodb\\models\\labtacoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Lab-FastFoodTacoDB\\Controllers\\DrinksController.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-FastFoodTacoDB\\Lab-FastFoodTacoDB\\Controllers\\DrinksController.cs",
               "RelativeToolTip": "Lab-FastFoodTacoDB\\Controllers\\DrinksController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T19:31:54.671Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Lab-FastFoodTacoDB\\Controllers\\TacosController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T19:12:55.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T19:12:55.595Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Lab-FastFoodTacoDB\\Models\\LabTacosContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T19:10:38.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T19:10:38.094Z"
             }
           ]
         }
